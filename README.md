@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img width=85 align=right src='https://art.pixilart.com/b47c561d57cdca5.gif'/>
 
 
-Here are two quick fun facts for you :
+Two quick fun facts for you :
 
  ⚡ Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
  
