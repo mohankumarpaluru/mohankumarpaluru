@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my `secret orbital lab` 👋
 
 <!--
 **mohankumarpaluru/mohankumarpaluru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width=85 align=right src='https://art.pixilart.com/b47c561d57cdca5.gif'/>
+
+
+Here are two quick fun facts for you :
+
+ ⚡ Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
+ 
+ ⚡ Ctrl + Z is better than a time machine.
