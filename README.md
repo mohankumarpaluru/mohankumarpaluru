@@ -22,4 +22,4 @@ Two quick fun facts for you :
 
  ⚡ Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
  
- ⚡ Ctrl + Z is better than a time machine.
+ ⚡ Ctrl + Z is better than any time machine.
