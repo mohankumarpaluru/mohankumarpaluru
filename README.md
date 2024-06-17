@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 Two quick fun facts for you :
 
- ⚡ Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
+ ⚡ Ctrl + C and Ctrl + V have more saves than your average superhero!
  
  ⚡ Ctrl + Z is better than any time machine.
