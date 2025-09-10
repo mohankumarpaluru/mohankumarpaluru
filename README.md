@@ -8,19 +8,31 @@
 
 ## <picture><img src = "https://github.com/mohankumarpaluru/mohankumarpaluru/blob/master/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<img align="right" alt="Coding Cat" width="250" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
+<picture>
+  <!-- On small screens, show full-width image on top -->
+   <source media="(max-width: 600px)" srcset="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
+
+
+  <!-- Default (desktop) -->
+  <img align="right" alt="Coding Cat" width="250" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
+</picture>
+
+<div align="left">
 
 - I’m a tech tinkerer who loves poking around everything from sensors to software.
 - By day, I wrangle data as a Data Engineer — building scalable pipelines and streamlining workflows in the cloud.
-- If you’re into nerdy rabbit holes and random discoveries, you can catch my latest findings at **[Curiosity Chronicles](https://mohan.is-a.dev/blog/curiosity)** .
+- If you’re into nerdy rabbit holes and random discoveries, you can catch my latest findings at **[Curiosity Chronicles](https://mohan.is-a.dev/blog/curiosity)**.
 - Oh, and my GitHub experiments live here 👉 [mohan.is-a.dev](https://mohan.is-a.dev)
 
-<br clear="left"/>
-<br clear="left"/>
+</div>
 
-### <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="2%"></picture> Languages and Tools:
+<br clear="right"/>
+
+
+### <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="2%"></picture> Languages and Tools:
 
 <p align="left">
+
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
