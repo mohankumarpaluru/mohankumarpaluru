@@ -17,6 +17,7 @@
 </picture>
 
 <ul>
+  <<>>
   <li>I’m a tech tinkerer who loves poking around everything from sensors to software.</li>
   <li>By day, I wrangle data as a Data Engineer — building scalable pipelines and streamlining workflows in the cloud.</li>
   <li>If you’re into nerdy rabbit holes and random discoveries, you can catch my latest findings at <strong><a href="https://mohan.is-a.dev/blog/curiosity">Curiosity Chronicles</a></strong>.</li>
