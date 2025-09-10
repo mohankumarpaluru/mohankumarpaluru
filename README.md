@@ -8,6 +8,7 @@
 
 ## <picture><img src = "https://github.com/mohankumarpaluru/mohankumarpaluru/blob/master/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<div>
 <picture>
   <!-- Mobile: full width -->
   <source media="(max-width: 600px)" srcset="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
@@ -15,15 +16,15 @@
   <!-- Desktop: float right -->
   <img align="right" alt="Coding Cat" width="250" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
 </picture>
-
+</div>
+<div>
 <ul>
-  <<>>
   <li>I’m a tech tinkerer who loves poking around everything from sensors to software.</li>
   <li>By day, I wrangle data as a Data Engineer — building scalable pipelines and streamlining workflows in the cloud.</li>
   <li>If you’re into nerdy rabbit holes and random discoveries, you can catch my latest findings at <strong><a href="https://mohan.is-a.dev/blog/curiosity">Curiosity Chronicles</a></strong>.</li>
   <li>Oh, and my GitHub experiments live here 👉 <a href="https://mohan.is-a.dev">mohan.is-a.dev</a></li>
 </ul>
-
+</div>
 <br clear="right"/>
 
 
