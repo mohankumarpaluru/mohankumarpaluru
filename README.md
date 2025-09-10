@@ -8,23 +8,11 @@
 
 ## <picture><img src = "https://github.com/mohankumarpaluru/mohankumarpaluru/blob/master/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<div>
-<picture>
-  <!-- Mobile: full width -->
-  <source media="(max-width: 600px)" srcset="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
+- I’m a tech tinkerer who loves poking around everything from sensors to software.</li>
+- By day, I wrangle data as a Data Engineer — building scalable pipelines and streamlining workflows in the cloud.</li>
+- If you’re into nerdy rabbit holes and random discoveries, you can catch my latest findings at <strong><a href="https://mohan.is-a.dev/blog/curiosity">Curiosity Chronicles</a></strong>.</li>
+- Oh, and my GitHub experiments live here 👉 <a href="https://mohan.is-a.dev">mohan.is-a.dev</a></li>
 
-  <!-- Desktop: float right -->
-  <img align="right" alt="Coding Cat" width="250" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
-</picture>
-</div>
-<div>
-<ul>
-  <li>I’m a tech tinkerer who loves poking around everything from sensors to software.</li>
-  <li>By day, I wrangle data as a Data Engineer — building scalable pipelines and streamlining workflows in the cloud.</li>
-  <li>If you’re into nerdy rabbit holes and random discoveries, you can catch my latest findings at <strong><a href="https://mohan.is-a.dev/blog/curiosity">Curiosity Chronicles</a></strong>.</li>
-  <li>Oh, and my GitHub experiments live here 👉 <a href="https://mohan.is-a.dev">mohan.is-a.dev</a></li>
-</ul>
-</div>
 <br clear="right"/>
 
 
@@ -60,7 +48,7 @@
 <br clear="left"/>
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 ## <picture> <img align="left" src="https://camo.githubusercontent.com/dc251dd92dbb71448c7454af29c93e9d0ab5d4d90e21d4eeda891bda3eba51f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5735656f5a485070557839736170523065752f67697068792e676966" width = 30px alt="Git Stats Icon"> </picture> Stats
