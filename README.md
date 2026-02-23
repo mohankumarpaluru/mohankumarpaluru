@@ -62,7 +62,7 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohankumarpaluru&theme=tokyonight#gh-dark-mode-only" alt="mohankumarpaluru" />
  </p>
 
-### <picture> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=3% valign="bottom"> </picture> Contributions
+### <picture> <img src="https://raw.githubusercontent.com/mohankumarpaluru/mohankumarpaluru/master/Images/contrib-2.gif" width=3% valign="bottom"> </picture> Contributions
 
 <p align="center">
   <picture>
