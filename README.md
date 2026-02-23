@@ -53,10 +53,10 @@
 
 ## <picture> <img align="left" src="https://camo.githubusercontent.com/dc251dd92dbb71448c7454af29c93e9d0ab5d4d90e21d4eeda891bda3eba51f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5735656f5a485070557839736170523065752f67697068792e676966" width = 30px alt="Git Stats Icon"> </picture> Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohankumarpaluru&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mohankumarpaluru" /></p>
+<p><img align="left" src="https://github-readme-stats-theta-seven-vrfelv62n9.vercel.app/api/top-langs?username=mohankumarpaluru&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mohankumarpaluru" /></p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohankumarpaluru&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="mohankumarpaluru" />
+  <img align="center" src="https://github-readme-stats-theta-seven-vrfelv62n9.vercel.app/api?username=mohankumarpaluru&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="mohankumarpaluru" />
 </p>
 <p>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohankumarpaluru&theme=tokyonight#gh-dark-mode-only" alt="mohankumarpaluru" />
