@@ -16,7 +16,7 @@
 <br clear="right"/>
 
 
-### <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="2%"></picture> Languages and Tools:
+### <picture><img src="https://raw.githubusercontent.com/mohankumarpaluru/mohankumarpaluru/master/Images/code.gif" width="2%"></picture> Languages and Tools:
 
 <p align="left">
 
@@ -51,7 +51,7 @@
 	<img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img align="left" src="https://camo.githubusercontent.com/dc251dd92dbb71448c7454af29c93e9d0ab5d4d90e21d4eeda891bda3eba51f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5735656f5a485070557839736170523065752f67697068792e676966" width = 30px alt="Git Stats Icon"> </picture> Stats
+## <picture> <img align="left" src="https://raw.githubusercontent.com/mohankumarpaluru/mohankumarpaluru/master/Images/stats.gif" width = 30px alt="Git Stats Icon"> </picture> Stats
 
 <p><img align="left" src="https://github-readme-stats-theta-seven-vrfelv62n9.vercel.app/api/top-langs?username=mohankumarpaluru&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mohankumarpaluru" /></p>
 
